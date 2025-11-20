@@ -1,0 +1,12 @@
+F205 001234 Immobile urbano 152,00 Luca Bianchi, Maria Rossi
+F205 045678 Immobile residenziale 315,00 Giulia Bianchi
+F205 067890 Immobile commerciale 315,00 Marco Rossi
+H501 112233 Immobile urbano 301,40 Giuseppe Verdi, Francesca Esposito
+H501 445566 Immobile residenziale 945,00 Luca Bianchi, Marco Rossi
+H501 778899 Immobile agricolo 855,00 Maria Rossi, Giulia Bianchi
+F839 000876 Immobile urbano 152,00 Francesca Esposito
+F839 543210 Immobile residenziale 210,00 Giulia Bianchi
+F839 112233 Immobile commerciale 275,20 Luca Bianchi, Giuseppe Verdi
+L219 005432 Immobile urbano 328,00 Francesca Esposito
+L219 987654 Immobile residenziale 252,00 Luca Bianchi
+L219 111222 Immobile commerciale 378,60 Paolo Esposito, Francesca Esposito
